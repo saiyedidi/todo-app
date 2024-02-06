@@ -19,6 +19,7 @@ function App() {
         </a>
         <h1>heading</h1>
         <h2>sub heading</h2>
+        <h3>another heading</h3>
       </header>
     </div>
   );
